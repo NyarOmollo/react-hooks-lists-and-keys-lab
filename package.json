@@ -1,8 +1,9 @@
 {
-  "name": "react-hooks-lists-and-keys-lab",
+  "name": "phase-2-hooks-lists-and-keys",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "json-server": "^0.17.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "^5.0.1"
